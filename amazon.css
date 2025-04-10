@@ -407,6 +407,52 @@ span{
     bottom: 3.0rem;
 }
 
+.signin{
+    height: 9rem;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top:-16rem;
+    text-align: center;
+    padding-top: 2rem;
+    border-bottom: 0.2px solid rgb(162, 160, 160);
+}
+
+.signin h2{
+    padding-bottom: 0.8rem;
+}
+
+.new-customer{
+    font-size: 0.7rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.new-customer a{
+    color: #2162A1;
+    text-decoration: underline;
+}
+
+.new-customer a:hover{
+    color: #1d2023;
+    cursor: pointer;
+}
+
+button{
+    height: 1.85rem;
+    width: 9rem;
+    background-color: rgb(255, 214, 7);
+    color: black;
+    border-radius: 2rem;
+    border: none;
+    margin-bottom: 0.25rem;
+}
+
+.need{
+    background-color: white;
+    height: 1.4rem;
+    position: relative;
+    top:-16rem;
+}
+
 footer{
 
     position: relative;
